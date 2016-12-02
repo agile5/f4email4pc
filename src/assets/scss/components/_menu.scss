@@ -1,0 +1,16 @@
+.menu-item {
+  color: $dark-gray;
+  background-color: $light-gray;
+  border-left: 1px dotted $light-gray-border;
+  border-top: 1px dotted $light-gray-border;
+  border-right: 1px dotted $light-gray-border;
+  border-bottom: 1px dotted $light-gray-border;
+  a {
+    color: $dark-gray !important;
+  }
+}
+
+span.menu-item-link {
+  color: $dark-gray;
+  font-size: $small-font-size;
+}

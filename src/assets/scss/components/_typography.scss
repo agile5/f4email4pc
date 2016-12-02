@@ -1,0 +1,27 @@
+h4.section-heading {
+  color: $section-heading-color;
+  font-weight: 600;
+  letter-spacing: -0.5px;
+}
+
+.ccuk-red {
+  color: $ccuk-red;
+}
+
+.now-price {
+  color: darken($ccuk-purple, 5%);
+}
+
+.icon-red {
+  color: $ccuk-medium-red;
+  font-weight: 600;
+}
+
+.footer-text {
+  font-size: $small-font-size;
+  color: $dark-gray;
+}
+
+.strike-through {
+  text-decoration: line-through;
+}
